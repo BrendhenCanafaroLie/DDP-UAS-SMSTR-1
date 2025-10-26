@@ -1,0 +1,42 @@
+[
+    {
+        "Kamar": 1,
+        "Status": "Ditempati"
+    },
+    {
+        "Kamar": 2,
+        "Status": "Ditempati"
+    },
+    {
+        "Kamar": 3,
+        "Status": "Ditempati"
+    },
+    {
+        "Kamar": 4,
+        "Status": "Ditempati"
+    },
+    {
+        "Kamar": 5,
+        "Status": "Tersedia"
+    },
+    {
+        "Kamar": 6,
+        "Status": "Tersedia"
+    },
+    {
+        "Kamar": 7,
+        "Status": "Ditempati"
+    },
+    {
+        "Kamar": 8,
+        "Status": "Tersedia"
+    },
+    {
+        "Kamar": 9,
+        "Status": "Tersedia"
+    },
+    {
+        "Kamar": 10,
+        "Status": "Tersedia"
+    }
+]

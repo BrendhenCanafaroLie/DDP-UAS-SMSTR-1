@@ -1,0 +1,37 @@
+[
+    {
+        "No": 1,
+        "Nama Tamu": "Fred",
+        "Nomor Kamar": 1,
+        "Durasi": 1,
+        "Total Harga": 300000
+    },
+    {
+        "No": 2,
+        "Nama Tamu": "Jajajaja",
+        "Nomor Kamar": 2,
+        "Durasi": 2,
+        "Total Harga": 600000
+    },
+    {
+        "No": 3,
+        "Nama Tamu": "Brenden",
+        "Nomor Kamar": 3,
+        "Durasi": 3,
+        "Total Harga": 765000.0
+    },
+    {
+        "No": 4,
+        "Nama Tamu": "Jaajaaa",
+        "Nomor Kamar": 7,
+        "Durasi": 1,
+        "Total Harga": 510000.0
+    },
+    {
+        "No": 5,
+        "Nama Tamu": "4",
+        "Nomor Kamar": 4,
+        "Durasi": 1,
+        "Total Harga": 255000.0
+    }
+]

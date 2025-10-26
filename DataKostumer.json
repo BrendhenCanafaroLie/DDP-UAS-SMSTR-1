@@ -1,0 +1,26 @@
+[
+    {
+        "Username": "vip1",
+        "Password": "vip123",
+        "E-Money": 500000,
+        "Tipe": "VIP"
+    },
+    {
+        "Username": "reguler1",
+        "Password": "reg123",
+        "E-Money": 100000,
+        "Tipe": "Reguler"
+    },
+    {
+        "Username": "admin",
+        "Password": "admin123",
+        "E-Money": 1000000,
+        "Tipe": "VIP"
+    },
+    {
+        "Username": "mamama",
+        "Password": "8889",
+        "E-Money": 0,
+        "Tipe": "Reguler"
+    }
+]
